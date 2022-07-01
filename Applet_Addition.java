@@ -1,10 +1,9 @@
-Step 1: Create the java program with " filename.java ".
-
-Step 2: Create the html program with "filename.html".
-
-Step 3: Compile the java program "javac filename.java".
-
-Step 4: View applet using "appletviewer filename.html".
+o create an Applet program follow the steps:
+1. Create a Java file containing Applet Code and Methods described above
+2. Create a HTML file and embed the .Class File of the Java file created in the first step
+3. Run Applet using either of the following methods
+o Open the HTML file in java enabled web browser
+o Use AppletViewer tool(used only for testing purpose)
 
 Note: Both program must have the same name and Both program must be in same folder.     
 
